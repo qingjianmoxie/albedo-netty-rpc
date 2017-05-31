@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ifrabbit:spring-data-mybatis:1.0.16.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ifrabbit/spring-data-mybatis/1.0.16.BUILD-SNAPSHOT/spring-data-mybatis-1.0.16.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ifrabbit/spring-data-mybatis/1.0.16.BUILD-SNAPSHOT/spring-data-mybatis-1.0.16.BUILD-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ifrabbit/spring-data-mybatis/1.0.16.BUILD-SNAPSHOT/spring-data-mybatis-1.0.16.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

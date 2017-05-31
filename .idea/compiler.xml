@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="albedo-rpc-client" />
+        <module name="albedo-rpc-common" />
+        <module name="albedo-rpc-example-client" />
+        <module name="albedo-rpc-example-server" />
+        <module name="albedo-rpc-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="albedo-netty-rpc" target="1.8" />
+      <module name="albedo-rpc" target="1.8" />
+      <module name="albedo-rpc-client" target="1.8" />
+      <module name="albedo-rpc-common" target="1.8" />
+      <module name="albedo-rpc-example" target="1.8" />
+      <module name="albedo-rpc-example-client" target="1.8" />
+      <module name="albedo-rpc-example-server" target="1.8" />
+      <module name="albedo-rpc-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

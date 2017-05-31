@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/albedo-netty-rpc.iml" filepath="$PROJECT_DIR$/albedo-netty-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albedo-rpc-client/albedo-rpc-client.iml" filepath="$PROJECT_DIR$/albedo-rpc-client/albedo-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albedo-rpc-common/albedo-rpc-common.iml" filepath="$PROJECT_DIR$/albedo-rpc-common/albedo-rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albedo-rpc-example/albedo-rpc-example.iml" filepath="$PROJECT_DIR$/albedo-rpc-example/albedo-rpc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albedo-rpc-example/albedo-rpc-example-client/albedo-rpc-example-client.iml" filepath="$PROJECT_DIR$/albedo-rpc-example/albedo-rpc-example-client/albedo-rpc-example-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albedo-rpc-example/albedo-rpc-example-server/albedo-rpc-example-server.iml" filepath="$PROJECT_DIR$/albedo-rpc-example/albedo-rpc-example-server/albedo-rpc-example-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/albedo-rpc-server/albedo-rpc-server.iml" filepath="$PROJECT_DIR$/albedo-rpc-server/albedo-rpc-server.iml" />
+    </modules>
+  </component>
+</project>
